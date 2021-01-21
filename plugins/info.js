@@ -16,13 +16,13 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╠➥ Dan kawan yang lain :)
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ SmartFren: 0882-3543-5804
-╠➥ Tsel: 0813-5730-2007
-╠➥ Indosat: 0815-1586-0089
+╠➥ Tsel:+62 822-2549-1446
+╠➥ Tsel: +62 813-9236-5930
+╠➥ Indosat: +62 858-3002-6476
 ║
-║>Request? Wa.me/6288235435804
+║>Request? Wa.me/6282225491446
 ║
-╠═〘 NfQ BOT 〙 ═
+╠═〘 Rans BOT 〙 ═
 `.trim(), m)
 }
 handler.help = ['info']
