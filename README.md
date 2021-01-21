@@ -1,4 +1,4 @@
-# wabot-aq
+# wabot
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-DN
-> cd Arya-DN
+> git clone https://github.com/bayusatryia/wabot
+> cd wabot
 > npm install
 ```
 ###### Run
@@ -36,6 +36,6 @@ Simple WhatsApp Bot
 
 # Sosmed And Creator
 ```thanks
-> Instagram: @arpunchs
-> YouTube: Drawl Nag
-> CREDIT: NUROTOMO
+> Instagram: @story.anime45
+> YouTube: titisan air mata
+> CREDIT: rans
